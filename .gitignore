@@ -2,7 +2,7 @@
 out/
 .idea/
 GitTest9.iml
-*.log
+**/*.log
 
 ### VS Code ###
 .vscode/
